@@ -1,7 +1,7 @@
 # Geometric-Feature-Release
 
-WARNING: dirty code
+DIRTY CODE WARNING
 
-I will write a detailed readme when I'm free.
+I may write a detailed readme when I'm free.
 
 ![features](figs/features.png)
